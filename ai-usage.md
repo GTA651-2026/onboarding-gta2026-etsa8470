@@ -10,7 +10,8 @@
 
 ## 1. Outil utilisé
 
-Outil : Chatgpt
+Outil : microsoft copilot
+
 Version / date d'accès : 13 mai 2026
 
 *(Si plusieurs outils, dupliquez cette section.)*
@@ -20,8 +21,7 @@ Version / date d'accès : 13 mai 2026
 ## 2. Ce qu'il m'a aidé à faire
 
 *(Tâche précise — ex. : « structurer la section ROI », pas : « écrire le travail ».)*
-Corriger les fautes orthographiques
-__
+Corriger les fautes orthographiques, structurer l'analyse__
 
 ---
 
@@ -29,7 +29,7 @@ __
 
 *(Pour chaque affirmation ou chiffre fourni par l'IA → source primaire consultée.)*
 
-- La strcuture et le contenu de toutes les sections
+- La strcuture et le contenu de toutes les sections omt été vérifié avant soumission
 - __
 
 ---
